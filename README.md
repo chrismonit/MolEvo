@@ -1,2 +1,2 @@
 # MolEvo
-Simple tools for day-to-day data processing in computational molecular evolution
+Simple tools for routine use in computational molecular evolution
