@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-""" 
+description = """ 
 Author: Christopher Monit
 
 Reroot one or more newick trees.
